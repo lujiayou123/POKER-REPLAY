@@ -1,0 +1,46 @@
+PokerStars Hand #85120: Hold'em No Limit (50/100) - 2019/07/11 23:38:40 ET
+Table 'Pluribus Session 85' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrWhite (10000 in chips)
+Seat 2: Budd (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+MrWhite: posts small blind 50
+Budd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrWhite [Jh Th]
+Dealt to Budd [3h Qh]
+Dealt to MrOrange [4h 9d]
+Dealt to Bill [3c 7h]
+Dealt to MrBlue [Tc 6h]
+Dealt to Pluribus [Jd 8d]
+MrOrange: folds
+Bill: folds
+MrBlue: folds
+Pluribus: raises 187 to 287
+MrWhite: raises 674 to 961
+Budd: folds
+Pluribus: calls 674
+*** FLOP *** [Jc 7c 2d]
+MrWhite: bets 666
+Pluribus: calls 666
+*** TURN *** [Jc 7c 2d] [2s]
+MrWhite: checks
+Pluribus: checks
+*** RIVER *** [Jc 7c 2d] [2s] [Js]
+MrWhite: checks
+Pluribus: bets 3354
+MrWhite: raises 3354 to 6708
+Pluribus: raises 1665 to 8373 and is all-in
+MrWhite: calls 1665 and is all-in
+*** SHOWDOWN ***
+MrWhite: shows [Jh Th]
+Pluribus: shows [Jd 8d]
+MrWhite collected 10050.0 from pot
+Pluribus collected 10050.0 from pot
+*** SUMMARY ***
+Total pot 20100 | Rake 0
+Board [Jc 7c 2d 2s Js]
+Seat 1: MrWhite showed [Jh Th] and won (10050.0)
+Seat 6: Pluribus showed [Jd 8d] and won (10050.0)

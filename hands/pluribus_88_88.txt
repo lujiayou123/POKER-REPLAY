@@ -1,0 +1,34 @@
+PokerStars Hand #88087: Hold'em No Limit (50/100) - 2019/07/12 00:28:07 ET
+Table 'Pluribus Session 88' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Eddie (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Bill: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [2h Kc]
+Dealt to MrBlue [Ad 9h]
+Dealt to Pluribus [8d Js]
+Dealt to MrPink [9s 6h]
+Dealt to Eddie [7s 4c]
+Dealt to MrOrange [3h 4d]
+Pluribus: folds
+MrPink: folds
+Eddie: folds
+MrOrange: folds
+Bill: calls 50
+MrBlue: checks
+*** FLOP *** [5s Kd Qd]
+Bill: checks
+MrBlue: checks
+*** TURN *** [5s Kd Qd] [2c]
+Bill: bets 150
+MrBlue: folds
+Uncalled bet (150) returned to Bill
+Bill collected 200.0 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [5s Kd Qd 2c]

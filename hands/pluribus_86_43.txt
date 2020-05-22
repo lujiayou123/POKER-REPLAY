@@ -1,0 +1,46 @@
+PokerStars Hand #86042: Hold'em No Limit (50/100) - 2019/07/11 23:54:02 ET
+Table 'Pluribus Session 86' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrWhite (10000 in chips)
+Seat 2: Budd (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+MrWhite: posts small blind 50
+Budd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrWhite [Tc Kd]
+Dealt to Budd [7s 3c]
+Dealt to MrOrange [Js Ts]
+Dealt to Bill [8s 9d]
+Dealt to MrBlue [4s Jh]
+Dealt to Pluribus [Ah Td]
+MrOrange: raises 100 to 200
+Bill: folds
+MrBlue: folds
+Pluribus: raises 481 to 681
+MrWhite: folds
+Budd: folds
+MrOrange: calls 481
+*** FLOP *** [Kh Qc Ad]
+MrOrange: checks
+Pluribus: bets 378
+MrOrange: calls 378
+*** TURN *** [Kh Qc Ad] [Jd]
+MrOrange: checks
+Pluribus: bets 1134
+MrOrange: calls 1134
+*** RIVER *** [Kh Qc Ad] [Jd] [8d]
+MrOrange: checks
+Pluribus: bets 3402
+MrOrange: calls 3402
+*** SHOWDOWN ***
+MrOrange: shows [Js Ts]
+Pluribus: shows [Ah Td]
+MrOrange collected 5670.0 from pot
+Pluribus collected 5670.0 from pot
+*** SUMMARY ***
+Total pot 11340 | Rake 0
+Board [Kh Qc Ad Jd 8d]
+Seat 3: MrOrange showed [Js Ts] and won (5670.0)
+Seat 6: Pluribus showed [Ah Td] and won (5670.0)

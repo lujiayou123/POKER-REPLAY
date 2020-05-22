@@ -1,0 +1,38 @@
+PokerStars Hand #35031: Hold'em No Limit (50/100) - 2019/07/11 09:43:51 ET
+Table 'Pluribus Session 35' 6-max (Play Money) Seat #6 is the button
+Seat 1: Gogo (10000 in chips)
+Seat 2: Budd (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: MrWhite (10000 in chips)
+Gogo: posts small blind 50
+Budd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Gogo [Ks Td]
+Dealt to Budd [9s 2d]
+Dealt to Eddie [9d Qd]
+Dealt to Bill [Jc 3h]
+Dealt to Pluribus [6s 6c]
+Dealt to MrWhite [3c Js]
+Eddie: raises 100 to 200
+Bill: folds
+Pluribus: calls 200
+MrWhite: folds
+Gogo: folds
+Budd: folds
+*** FLOP *** [7d 5d 4s]
+Eddie: checks
+Pluribus: checks
+*** TURN *** [7d 5d 4s] [2c]
+Eddie: bets 460
+Pluribus: calls 460
+*** RIVER *** [7d 5d 4s] [2c] [Ah]
+Eddie: checks
+Pluribus: bets 735
+Eddie: folds
+Uncalled bet (735) returned to Pluribus
+Pluribus collected 1470.0 from pot
+*** SUMMARY ***
+Total pot 1470 | Rake 0
+Board [7d 5d 4s 2c Ah]

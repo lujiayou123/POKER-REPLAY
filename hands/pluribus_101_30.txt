@@ -1,0 +1,45 @@
+PokerStars Hand #101029: Hold'em No Limit (50/100) - 2019/07/12 04:03:49 ET
+Table 'Pluribus Session 101' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: MrBlonde (10000 in chips)
+Seat 4: MrWhite (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: MrBrown (10000 in chips)
+Pluribus: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [Ad 7d]
+Dealt to MrBlue [7s Qh]
+Dealt to MrBlonde [3h 3c]
+Dealt to MrWhite [Kc 9h]
+Dealt to MrPink [9c Jc]
+Dealt to MrBrown [Jd 9d]
+MrBlonde: folds
+MrWhite: folds
+MrPink: raises 110 to 210
+MrBrown: calls 210
+Pluribus: calls 160
+MrBlue: folds
+*** FLOP *** [Kd 8h 5d]
+Pluribus: checks
+MrPink: checks
+MrBrown: bets 365
+Pluribus: raises 730 to 1095
+MrPink: folds
+MrBrown: calls 730
+*** TURN *** [Kd 8h 5d] [4d]
+Pluribus: bets 730
+MrBrown: calls 730
+*** RIVER *** [Kd 8h 5d] [4d] [Ks]
+Pluribus: checks
+MrBrown: bets 2190
+Pluribus: calls 2190
+*** SHOWDOWN ***
+Pluribus: shows [Ad 7d]
+Pluribus collected 8760.0 from pot
+*** SUMMARY ***
+Total pot 8760 | Rake 0
+Board [Kd 8h 5d 4d Ks]
+Seat 1: Pluribus showed [Ad 7d] and won (8760.0)
+Seat 6: MrBrown showed [Jd 9d] and lost

@@ -1,0 +1,27 @@
+PokerStars Hand #52187: Hold'em No Limit (50/100) - 2019/07/11 14:29:47 ET
+Table 'Pluribus Session 52' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: MrBlonde (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+MrBlue: posts small blind 50
+MrBlonde: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [8h 7c]
+Dealt to MrBlonde [2s Qh]
+Dealt to Eddie [5s Td]
+Dealt to Bill [4h 5h]
+Dealt to Pluribus [Qc 3h]
+Dealt to MrOrange [Jh 7s]
+Eddie: folds
+Bill: raises 125 to 225
+Pluribus: folds
+MrOrange: folds
+MrBlue: folds
+MrBlonde: folds
+Uncalled bet (125) returned to Bill
+Bill collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0

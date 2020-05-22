@@ -1,0 +1,41 @@
+PokerStars Hand #111165: Hold'em No Limit (50/100) - 2019/07/12 06:52:45 ET
+Table 'Pluribus Session 111' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: MrPink (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [Ac Tc]
+Dealt to MrBlue [3d 4s]
+Dealt to Pluribus [8s Qc]
+Dealt to Eddie [Ah 5c]
+Dealt to MrPink [Ad 9d]
+Dealt to MrOrange [8c 6c]
+Pluribus: folds
+Eddie: folds
+MrPink: raises 110 to 210
+MrOrange: folds
+MrBrown: raises 665 to 875
+MrBlue: folds
+MrPink: calls 665
+*** FLOP *** [Qh Td Kd]
+MrBrown: bets 900
+MrPink: calls 900
+*** TURN *** [Qh Td Kd] [8h]
+MrBrown: checks
+MrPink: checks
+*** RIVER *** [Qh Td Kd] [8h] [7s]
+MrBrown: checks
+MrPink: checks
+*** SHOWDOWN ***
+MrBrown: shows [Ac Tc]
+MrBrown collected 3650.0 from pot
+*** SUMMARY ***
+Total pot 3650 | Rake 0
+Board [Qh Td Kd 8h 7s]
+Seat 1: MrBrown showed [Ac Tc] and won (3650.0)
+Seat 5: MrPink showed [Ad 9d] and lost

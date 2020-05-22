@@ -1,0 +1,50 @@
+PokerStars Hand #111150: Hold'em No Limit (50/100) - 2019/07/12 06:52:30 ET
+Table 'Pluribus Session 111' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: MrBrown (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Eddie: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [5h 5c]
+Dealt to MrPink [9c Qs]
+Dealt to MrOrange [Js 2c]
+Dealt to MrBrown [Ac 6c]
+Dealt to MrBlue [4h 5d]
+Dealt to Pluribus [As 6s]
+MrOrange: folds
+MrBrown: raises 150 to 250
+MrBlue: folds
+Pluribus: calls 250
+Eddie: calls 200
+MrPink: calls 150
+*** FLOP *** [8h 2s Td]
+Eddie: checks
+MrPink: checks
+MrBrown: checks
+Pluribus: checks
+*** TURN *** [8h 2s Td] [3h]
+Eddie: checks
+MrPink: checks
+MrBrown: checks
+Pluribus: checks
+*** RIVER *** [8h 2s Td] [3h] [Ah]
+Eddie: checks
+MrPink: checks
+MrBrown: checks
+Pluribus: checks
+*** SHOWDOWN ***
+MrBrown: shows [Ac 6c]
+Pluribus: shows [As 6s]
+MrBrown collected 500.0 from pot
+Pluribus collected 500.0 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [8h 2s Td 3h Ah]
+Seat 1: Eddie showed [5h 5c] and lost
+Seat 2: MrPink showed [9c Qs] and lost
+Seat 4: MrBrown showed [Ac 6c] and won (500.0)
+Seat 6: Pluribus showed [As 6s] and won (500.0)

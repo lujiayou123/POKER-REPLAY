@@ -1,0 +1,33 @@
+PokerStars Hand #97074: Hold'em No Limit (50/100) - 2019/07/12 02:57:54 ET
+Table 'Pluribus Session 97' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: MrPink (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+MrBlue: posts small blind 50
+MrPink: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [8s Qs]
+Dealt to MrPink [Tc 9c]
+Dealt to Eddie [Ah 7s]
+Dealt to Pluribus [Jh 4c]
+Dealt to Bill [Kh As]
+Dealt to MrOrange [4s 5c]
+Eddie: folds
+Pluribus: folds
+Bill: raises 125 to 225
+MrOrange: folds
+MrBlue: calls 175
+MrPink: raises 1025 to 1250
+Bill: calls 1025
+MrBlue: folds
+*** FLOP *** [6d Ts 3s]
+MrPink: bets 8750 and is all-in
+Bill: folds
+Uncalled bet (8750) returned to MrPink
+MrPink collected 2725.0 from pot
+*** SUMMARY ***
+Total pot 2725 | Rake 0
+Board [6d Ts 3s]

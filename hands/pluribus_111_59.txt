@@ -1,0 +1,36 @@
+PokerStars Hand #111058: Hold'em No Limit (50/100) - 2019/07/12 06:50:58 ET
+Table 'Pluribus Session 111' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: Eddie (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: MrWhite (10000 in chips)
+MrBlue: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [4c Qc]
+Dealt to Pluribus [Jd 6h]
+Dealt to Eddie [6c Tc]
+Dealt to MrPink [2d Kh]
+Dealt to MrOrange [Qs 8h]
+Dealt to MrWhite [Th 4d]
+Eddie: folds
+MrPink: folds
+MrOrange: folds
+MrWhite: folds
+MrBlue: calls 50
+Pluribus: raises 250 to 350
+MrBlue: calls 250
+*** FLOP *** [Ad Kd Kc]
+MrBlue: checks
+Pluribus: checks
+*** TURN *** [Ad Kd Kc] [9d]
+MrBlue: checks
+Pluribus: bets 350
+MrBlue: folds
+Uncalled bet (350) returned to Pluribus
+Pluribus collected 700.0 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0
+Board [Ad Kd Kc 9d]

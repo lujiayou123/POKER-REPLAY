@@ -1,0 +1,39 @@
+PokerStars Hand #44093: Hold'em No Limit (50/100) - 2019/07/11 12:14:53 ET
+Table 'Pluribus Session 44' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrOrange (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: ORen (10000 in chips)
+Seat 5: Hattori (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Bill: posts small blind 50
+MrOrange: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [Td 8d]
+Dealt to MrOrange [3d 6h]
+Dealt to Pluribus [Th 9d]
+Dealt to ORen [Jc 7c]
+Dealt to Hattori [Kc Qc]
+Dealt to MrBlue [5h 8c]
+Pluribus: folds
+ORen: folds
+Hattori: raises 100 to 200
+MrBlue: folds
+Bill: raises 650 to 850
+MrOrange: folds
+Hattori: calls 650
+*** FLOP *** [9s Qs 6d]
+Bill: bets 1200
+Hattori: calls 1200
+*** TURN *** [9s Qs 6d] [Qh]
+Bill: bets 1400
+Hattori: calls 1400
+*** RIVER *** [9s Qs 6d] [Qh] [Ks]
+Bill: checks
+Hattori: bets 6550 and is all-in
+Bill: folds
+Uncalled bet (6550) returned to Hattori
+Hattori collected 7000.0 from pot
+*** SUMMARY ***
+Total pot 7000 | Rake 0
+Board [9s Qs 6d Qh Ks]

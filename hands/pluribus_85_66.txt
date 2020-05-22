@@ -1,0 +1,40 @@
+PokerStars Hand #85065: Hold'em No Limit (50/100) - 2019/07/11 23:37:45 ET
+Table 'Pluribus Session 85' 6-max (Play Money) Seat #6 is the button
+Seat 1: Pluribus (10000 in chips)
+Seat 2: MrWhite (10000 in chips)
+Seat 3: Budd (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: Bill (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Pluribus: posts small blind 50
+MrWhite: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Pluribus [4d Ts]
+Dealt to MrWhite [6s 4s]
+Dealt to Budd [7s 8s]
+Dealt to MrOrange [8d 7h]
+Dealt to Bill [9s 2h]
+Dealt to MrBlue [Ac Js]
+Budd: raises 125 to 225
+MrOrange: folds
+Bill: folds
+MrBlue: folds
+Pluribus: folds
+MrWhite: calls 125
+*** FLOP *** [Tc 9h 9c]
+MrWhite: checks
+Budd: checks
+*** TURN *** [Tc 9h 9c] [7c]
+MrWhite: checks
+Budd: checks
+*** RIVER *** [Tc 9h 9c] [7c] [5s]
+MrWhite: bets 375
+Budd: calls 375
+*** SHOWDOWN ***
+Budd: shows [7s 8s]
+Budd collected 1250.0 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Board [Tc 9h 9c 7c 5s]
+Seat 2: MrWhite showed [6s 4s] and lost
+Seat 3: Budd showed [7s 8s] and won (1250.0)

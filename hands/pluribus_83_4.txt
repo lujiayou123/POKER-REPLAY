@@ -1,0 +1,41 @@
+PokerStars Hand #83003: Hold'em No Limit (50/100) - 2019/07/11 23:03:23 ET
+Table 'Pluribus Session 83' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: MrWhite (10000 in chips)
+Seat 5: Budd (10000 in chips)
+Seat 6: MrOrange (10000 in chips)
+Bill: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [3d Kd]
+Dealt to MrBlue [Td 4h]
+Dealt to Pluribus [3c Qd]
+Dealt to MrWhite [Ks 3s]
+Dealt to Budd [5d Qh]
+Dealt to MrOrange [9c 2s]
+Pluribus: folds
+MrWhite: folds
+Budd: folds
+MrOrange: folds
+Bill: calls 50
+MrBlue: raises 250 to 350
+Bill: calls 250
+*** FLOP *** [6h Ts 5c]
+Bill: checks
+MrBlue: checks
+*** TURN *** [6h Ts 5c] [4d]
+Bill: bets 400
+MrBlue: calls 400
+*** RIVER *** [6h Ts 5c] [4d] [Jc]
+Bill: bets 1000
+MrBlue: calls 1000
+*** SHOWDOWN ***
+MrBlue: shows [Td 4h]
+MrBlue collected 3500.0 from pot
+*** SUMMARY ***
+Total pot 3500 | Rake 0
+Board [6h Ts 5c 4d Jc]
+Seat 1: Bill showed [3d Kd] and lost
+Seat 2: MrBlue showed [Td 4h] and won (3500.0)

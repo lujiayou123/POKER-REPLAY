@@ -1,0 +1,34 @@
+PokerStars Hand #78084: Hold'em No Limit (50/100) - 2019/07/11 21:41:24 ET
+Table 'Pluribus Session 78' 6-max (Play Money) Seat #6 is the button
+Seat 1: Budd (10000 in chips)
+Seat 2: MrWhite (10000 in chips)
+Seat 3: MrOrange (10000 in chips)
+Seat 4: Hattori (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+Budd: posts small blind 50
+MrWhite: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Budd [Js 6s]
+Dealt to MrWhite [Qh Th]
+Dealt to MrOrange [2c Qd]
+Dealt to Hattori [8h As]
+Dealt to MrBlue [6d Kc]
+Dealt to Pluribus [8d 5c]
+MrOrange: folds
+Hattori: folds
+MrBlue: folds
+Pluribus: folds
+Budd: raises 200 to 300
+MrWhite: calls 200
+*** FLOP *** [Ks Kh 4d]
+Budd: bets 175
+MrWhite: calls 175
+*** TURN *** [Ks Kh 4d] [7s]
+Budd: bets 575
+MrWhite: folds
+Uncalled bet (575) returned to Budd
+Budd collected 950.0 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0
+Board [Ks Kh 4d 7s]

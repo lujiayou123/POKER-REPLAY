@@ -1,0 +1,37 @@
+PokerStars Hand #93015: Hold'em No Limit (50/100) - 2019/07/12 01:50:15 ET
+Table 'Pluribus Session 93' 6-max (Play Money) Seat #6 is the button
+Seat 1: Budd (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: MrOrange (10000 in chips)
+Seat 5: MrWhite (10000 in chips)
+Seat 6: MrBlue (10000 in chips)
+Budd: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Budd [2c 7s]
+Dealt to Bill [6h 5s]
+Dealt to Pluribus [8s 2d]
+Dealt to MrOrange [Td 5h]
+Dealt to MrWhite [8d Ts]
+Dealt to MrBlue [6c Tc]
+Pluribus: folds
+MrOrange: folds
+MrWhite: folds
+MrBlue: raises 125 to 225
+Budd: folds
+Bill: calls 125
+*** FLOP *** [7c Qd 4h]
+Bill: checks
+MrBlue: bets 250
+Bill: calls 250
+*** TURN *** [7c Qd 4h] [Kh]
+Bill: checks
+MrBlue: bets 825
+Bill: raises 1675 to 2500
+MrBlue: folds
+Uncalled bet (1675) returned to Bill
+Bill collected 2650.0 from pot
+*** SUMMARY ***
+Total pot 2650 | Rake 0
+Board [7c Qd 4h Kh]

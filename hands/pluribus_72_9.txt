@@ -1,0 +1,37 @@
+PokerStars Hand #72008: Hold'em No Limit (50/100) - 2019/07/11 20:00:08 ET
+Table 'Pluribus Session 72' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: Budd (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrOrange: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [6s 7d]
+Dealt to Bill [Ac As]
+Dealt to MrBlue [7c Th]
+Dealt to Pluribus [7h 6c]
+Dealt to Budd [Kc Kd]
+Dealt to Eddie [Jc 3h]
+MrBlue: folds
+Pluribus: folds
+Budd: raises 125 to 225
+Eddie: folds
+MrOrange: folds
+Bill: raises 775 to 1000
+Budd: raises 1400 to 2400
+Bill: raises 7600 to 10000 and is all-in
+Budd: calls 7600 and is all-in
+*** FLOP *** [Qs 6h Ks]
+*** TURN *** [Qs 6h Ks] [Td]
+*** RIVER *** [Qs 6h Ks] [Td] [2h]
+*** SHOWDOWN ***
+Budd: shows [Kc Kd]
+Budd collected 20050.0 from pot
+*** SUMMARY ***
+Total pot 20050 | Rake 0
+Board [Qs 6h Ks Td 2h]
+Seat 2: Bill showed [Ac As] and lost
+Seat 5: Budd showed [Kc Kd] and won (20050.0)

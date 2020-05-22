@@ -1,0 +1,27 @@
+PokerStars Hand #44162: Hold'em No Limit (50/100) - 2019/07/11 12:16:02 ET
+Table 'Pluribus Session 44' 6-max (Play Money) Seat #6 is the button
+Seat 1: ORen (10000 in chips)
+Seat 2: Hattori (10000 in chips)
+Seat 3: MrBlue (10000 in chips)
+Seat 4: Bill (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Pluribus (10000 in chips)
+ORen: posts small blind 50
+Hattori: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ORen [9d 2d]
+Dealt to Hattori [3c 7d]
+Dealt to MrBlue [2s 2h]
+Dealt to Bill [4s 6h]
+Dealt to MrOrange [7s Ks]
+Dealt to Pluribus [3s 4h]
+MrBlue: raises 125 to 225
+Bill: folds
+MrOrange: folds
+Pluribus: folds
+ORen: folds
+Hattori: folds
+Uncalled bet (125) returned to MrBlue
+MrBlue collected 250.0 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0

@@ -1,0 +1,28 @@
+PokerStars Hand #62002: Hold'em No Limit (50/100) - 2019/07/11 17:13:22 ET
+Table 'Pluribus Session 62' 6-max (Play Money) Seat #6 is the button
+Seat 1: Bill (10000 in chips)
+Seat 2: Eddie (10000 in chips)
+Seat 3: Joe (10000 in chips)
+Seat 4: Pluribus (10000 in chips)
+Seat 5: MrBlue (10000 in chips)
+Seat 6: MrPink (10000 in chips)
+Bill: posts small blind 50
+Eddie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Bill [7c Ac]
+Dealt to Eddie [4d Qs]
+Dealt to Joe [Qd 8h]
+Dealt to Pluribus [Kd 9d]
+Dealt to MrBlue [Jh Kh]
+Dealt to MrPink [3d 8d]
+Joe: folds
+Pluribus: raises 100 to 200
+MrBlue: raises 515 to 715
+MrPink: folds
+Bill: folds
+Eddie: folds
+Pluribus: folds
+Uncalled bet (515) returned to MrBlue
+MrBlue collected 550.0 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0

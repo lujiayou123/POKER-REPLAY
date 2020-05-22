@@ -1,0 +1,43 @@
+PokerStars Hand #96073: Hold'em No Limit (50/100) - 2019/07/12 02:41:13 ET
+Table 'Pluribus Session 96' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrOrange (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: MrPink (10000 in chips)
+Seat 4: Eddie (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrOrange: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrOrange [2d Ah]
+Dealt to MrBlue [Js 2c]
+Dealt to MrPink [As 7c]
+Dealt to Eddie [Kd Th]
+Dealt to Pluribus [6s 6c]
+Dealt to Bill [6h 6d]
+MrPink: folds
+Eddie: folds
+Pluribus: raises 125 to 225
+Bill: calls 225
+MrOrange: folds
+MrBlue: folds
+*** FLOP *** [4c 3h 8s]
+Pluribus: checks
+Bill: checks
+*** TURN *** [4c 3h 8s] [Qd]
+Pluribus: checks
+Bill: bets 300
+Pluribus: calls 300
+*** RIVER *** [4c 3h 8s] [Qd] [Kh]
+Pluribus: checks
+Bill: checks
+*** SHOWDOWN ***
+Pluribus: shows [6s 6c]
+Bill: shows [6h 6d]
+Pluribus collected 600.0 from pot
+Bill collected 600.0 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0
+Board [4c 3h 8s Qd Kh]
+Seat 5: Pluribus showed [6s 6c] and won (600.0)
+Seat 6: Bill showed [6h 6d] and won (600.0)

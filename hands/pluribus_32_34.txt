@@ -1,0 +1,42 @@
+PokerStars Hand #32033: Hold'em No Limit (50/100) - 2019/07/11 08:53:53 ET
+Table 'Pluribus Session 32' 6-max (Play Money) Seat #6 is the button
+Seat 1: Eddie (10000 in chips)
+Seat 2: Bill (10000 in chips)
+Seat 3: Pluribus (10000 in chips)
+Seat 4: MrWhite (10000 in chips)
+Seat 5: Gogo (10000 in chips)
+Seat 6: Budd (10000 in chips)
+Eddie: posts small blind 50
+Bill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Eddie [6c 8s]
+Dealt to Bill [Kd 8c]
+Dealt to Pluribus [3s Qd]
+Dealt to MrWhite [7d Qs]
+Dealt to Gogo [2d Td]
+Dealt to Budd [3d Ac]
+Pluribus: folds
+MrWhite: folds
+Gogo: folds
+Budd: raises 150 to 250
+Eddie: folds
+Bill: calls 150
+*** FLOP *** [8h 3c 4c]
+Bill: checks
+Budd: checks
+*** TURN *** [8h 3c 4c] [Ad]
+Bill: checks
+Budd: bets 275
+Bill: calls 275
+*** RIVER *** [8h 3c 4c] [Ad] [5d]
+Bill: checks
+Budd: bets 825
+Bill: calls 825
+*** SHOWDOWN ***
+Budd: shows [3d Ac]
+Budd collected 2750.0 from pot
+*** SUMMARY ***
+Total pot 2750 | Rake 0
+Board [8h 3c 4c Ad 5d]
+Seat 2: Bill showed [Kd 8c] and lost
+Seat 6: Budd showed [3d Ac] and won (2750.0)

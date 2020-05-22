@@ -1,0 +1,29 @@
+PokerStars Hand #83082: Hold'em No Limit (50/100) - 2019/07/11 23:04:42 ET
+Table 'Pluribus Session 83' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBlue (10000 in chips)
+Seat 2: Pluribus (10000 in chips)
+Seat 3: MrWhite (10000 in chips)
+Seat 4: Budd (10000 in chips)
+Seat 5: MrOrange (10000 in chips)
+Seat 6: Bill (10000 in chips)
+MrBlue: posts small blind 50
+Pluribus: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBlue [5s 7s]
+Dealt to Pluribus [Tc 4d]
+Dealt to MrWhite [3h Qd]
+Dealt to Budd [9d Qh]
+Dealt to MrOrange [Ad Jh]
+Dealt to Bill [Kc 4c]
+MrWhite: folds
+Budd: folds
+MrOrange: raises 110 to 210
+Bill: folds
+MrBlue: raises 840 to 1050
+Pluribus: folds
+MrOrange: raises 1300 to 2350
+MrBlue: folds
+Uncalled bet (1300) returned to MrOrange
+MrOrange collected 2200.0 from pot
+*** SUMMARY ***
+Total pot 2200 | Rake 0

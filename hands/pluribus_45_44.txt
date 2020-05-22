@@ -1,0 +1,40 @@
+PokerStars Hand #45043: Hold'em No Limit (50/100) - 2019/07/11 12:30:43 ET
+Table 'Pluribus Session 45' 6-max (Play Money) Seat #6 is the button
+Seat 1: MrBrown (10000 in chips)
+Seat 2: MrBlue (10000 in chips)
+Seat 3: Bill (10000 in chips)
+Seat 4: MrPink (10000 in chips)
+Seat 5: Pluribus (10000 in chips)
+Seat 6: Eddie (10000 in chips)
+MrBrown: posts small blind 50
+MrBlue: posts big blind 100
+*** HOLE CARDS ***
+Dealt to MrBrown [Th 7h]
+Dealt to MrBlue [8d Ad]
+Dealt to Bill [As 4d]
+Dealt to MrPink [Qd 6d]
+Dealt to Pluribus [5h 3s]
+Dealt to Eddie [4c 2c]
+Bill: folds
+MrPink: folds
+Pluribus: folds
+Eddie: folds
+MrBrown: raises 200 to 300
+MrBlue: calls 200
+*** FLOP *** [9h 3c Ts]
+MrBrown: checks
+MrBlue: checks
+*** TURN *** [9h 3c Ts] [4s]
+MrBrown: checks
+MrBlue: checks
+*** RIVER *** [9h 3c Ts] [4s] [9s]
+MrBrown: checks
+MrBlue: checks
+*** SHOWDOWN ***
+MrBrown: shows [Th 7h]
+MrBrown collected 600.0 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [9h 3c Ts 4s 9s]
+Seat 1: MrBrown showed [Th 7h] and won (600.0)
+Seat 2: MrBlue showed [8d Ad] and lost
